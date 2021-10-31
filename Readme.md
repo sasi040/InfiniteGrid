@@ -36,9 +36,7 @@ of m *n to arrange the grid.
 6. A web application is started using embedded tomcat running on port 8081(as mentioned in properties file)
 7. A HTTP PUT endpoint is available: 
    http://localhost:8081/InfiniteGrid/navigate/${steps}
-   
-example: http://localhost:8081/InfiniteGrid/navigate/5
 8. The response of the request contains the path to the output file.
 
-######Thank you for the opportunity!! 
+*Thank you for the opportunity!!*
 
